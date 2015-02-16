@@ -1,0 +1,20 @@
+{
+  "name": "MyWebpage",
+  "version": "0.0.0",
+  "authors": [
+    "Jonathan Katz <jonathan.a.katz@gmail.com>"
+  ],
+  "description": "Portfolio for Jonathan Katz",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
