@@ -14,32 +14,6 @@ html {
 	background-size: cover;
 }
 
-/* Circular Divs */
-.circleBase {
-    border-radius: 50%;
-    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
-}
-
-.type1 {
-    width: 100px;
-    height: 100px;
-    background: yellow;
-    border: 3px solid red;
-}
-.type2 {
-    width: 50px;
-    height: 50px;
-    background: #ccc;
-    border: 3px solid #000;
-}
-.type3 {
-    width: 500px;
-    height: 500px;
-    background: aqua;
-    border: 30px solid blue;
-}
-/*/* ------------------------ /**/
-
 .container {
 	padding: 80px;
 }
@@ -177,7 +151,7 @@ html {
 .bt-menu ul li {
 	display: inline-block;
 	margin: 0 2%;
-	width: 5%;
+	width: 7%;
 	height: 90px;
 	line-height: 90px;
 	opacity: 0;
@@ -187,13 +161,13 @@ html {
 	transform: translate3d(0,100%,0);
 }
 
-.bt-menu ul li:nth-child(3) {
+/*.bt-menu ul li:nth-child(3) {
 	margin-right: 70px;
 }
 
 .bt-menu ul li:nth-child(4) {
 	margin-left: 70px;
-}
+}*/
 
 .bt-menu.bt-menu-open ul li {
 	opacity: 1;

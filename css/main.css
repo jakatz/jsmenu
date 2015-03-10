@@ -3,6 +3,10 @@ body {
 	font-family: 'Lato', Arial, sans-serif;
 }
 
+.about {
+	color: black;
+}
+
 a,
 a:focus {
 	outline: none;
